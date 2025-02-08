@@ -1,0 +1,385 @@
+{
+  "users": {
+    "6285624297893@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6285728092025@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "120363372111850676@newsletter": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "628557573123@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": {
+        "ps_id": "PS4-1738424942810",
+        "rental_id": "R1738591026782",
+        "duration": 2,
+        "amount": 20150,
+        "transaction_id": "0on06ql0",
+        "msg": {
+          "key": {
+            "remoteJid": "628557573123@s.whatsapp.net",
+            "fromMe": true,
+            "id": "B1EYA6234CC1ACEE1D0D"
+          },
+          "message": {
+            "buttonsMessage": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f2/m234/AQO-T9F3ynmK-1zaQ0KIBocMytre-I6nIg8p8oUFHD6sMaqHJ1PFVmAdJNdEcdnJZhu4Z6W7oFNSz5sOX2K-SzaKdrbX2Q6YlPQuPDUAfg?ccb=9-4&oh=01_Q5AaIHd4F332R_H01rGOI8H0yx7NwUyYq662g-NEGyHOqUhO&oe=67C84A1E&_nc_sid=e6ed6c&mms3=true",
+                "mimetype": "image/jpeg",
+                "caption": "*🎮 SEWA PLAYSTATION*\n\nID: R1738591026782\nDurasi: 2 jam\nTotal: Rp20000\n\nSilahkan scan QR untuk membayar\nQR berlaku 5 menit",
+                "fileSha256": "fgx3sy1TA5Ct75upbX60Xj6XF18nf7YokV+NNEvowFE=",
+                "fileLength": "2752",
+                "height": 212,
+                "width": 212,
+                "mediaKey": "8VCF7us0Lyk5INKkws1DaVgkNi01RlzcLDoMgA8Yz+A=",
+                "fileEncSha256": "yveRJumHIZtq15FhcxlAmiH0tJmKTDTfHiOwjXR8XVA=",
+                "directPath": "/o1/v/t62.7118-24/f2/m234/AQO-T9F3ynmK-1zaQ0KIBocMytre-I6nIg8p8oUFHD6sMaqHJ1PFVmAdJNdEcdnJZhu4Z6W7oFNSz5sOX2K-SzaKdrbX2Q6YlPQuPDUAfg?ccb=9-4&oh=01_Q5AaIHd4F332R_H01rGOI8H0yx7NwUyYq662g-NEGyHOqUhO&oe=67C84A1E&_nc_sid=e6ed6c",
+                "mediaKeyTimestamp": "1738591028",
+                "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIACAAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOr1PUby11GztrWxeeOZwJZgrFYRuAycDB4z34xk0AZ//CQXtuLm3u4IjeLHI0RRWWNmVckDcQX+YHO3oCue+AB3/CSubIXj2ssEfnvEY3iy6hA7MeDjJChcHG05JyBQBYj1TVDqlhZy6aypJEGupwrbI32MSgPTqBzkjnHWgCl4kKx6xDci4QG1g81onIDHDZCx9wzqJAcZztGQDtIAKF2Iltr2SOV2tQkzmNJtzyq22Mv5h+V12kMFJJLDGflIABDpaST29nvvmuYrggOgdklWYyMdypuxuXdubK4+QEZ5IAN/RpY4biO2hRY41jCiIXvnlMgkAgt8u3YRgBuowcA0AVfFNtbm+tbm6hwQ6RQzrvZwx3nCrGQxIIQ8npnGD1AMdJPtsupLeBUdLdC89oCZm+UFZWCZUhgzA7MkByDkfMACLRtOWS4Eli11BagOpYXRiiV3yBGjgned+xSw4Plg4bcBQBq+HL62fWWiiee5EhGy6a5O18RhgoV3LNgvJlRnb8ucnkAGrq0d+db0+Sy02CVAQJ7t1TfGueQpJz03Z46HjmgDCvvDmpXZkSe3S7kYALKzRxIrKzt5mFGcNv5XByWfJGFNAFu00zWLdpsRYN07TSSxSRxOj+ZuUDhvl+Yhgxf+LGcDeAW9J0O5h1tdSufs0McdsIYYLaMxYydzblDFeCTwCQevBFAH/9k="
+              },
+              "contentText": "*🎮 SEWA PLAYSTATION*\n\nID: R1738591026782\nDurasi: 2 jam\nTotal: Rp20000\n\nSilahkan scan QR untuk membayar\nQR berlaku 5 menit",
+              "footerText": "© SPNB-AI",
+              "buttons": [
+                {
+                  "buttonId": ".batalps",
+                  "buttonText": {
+                    "displayText": "Batalkan"
+                  },
+                  "type": "RESPONSE"
+                }
+              ],
+              "headerType": "IMAGE"
+            }
+          },
+          "messageTimestamp": "1738591028",
+          "status": "ERROR",
+          "messageStubParameters": [
+            "479"
+          ]
+        }
+      },
+      "rental_history": [],
+      "daftar": true,
+      "nama": "ukki"
+    },
+    "6285848709044@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6285191505651@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "6285779049674@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363327664353736@newsletter": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "120363376696732309@newsletter": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "6288210724226@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "120363356875554367@newsletter": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "120363363009408737@newsletter": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "120363375706542783@newsletter": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "6289501998033@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "62882003828017@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "120363257033988496@newsletter": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "120363364330631981@newsletter": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "120363333625617418@newsletter": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "6283119115977@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "120363375209757901@newsletter": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "120363396525574851@newsletter": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "120363197369767678@newsletter": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "6281340035772@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0,
+      "rental_temp": null,
+      "rental_history": []
+    },
+    "6282293403311@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6282196169515@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "62895327817095@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6282292237383@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6281243830902@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6285215471139@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6285242346122@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363369125132998@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6285757496125@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6285225308383@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363392884885376@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "628551000185@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6287778327341@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6281527252474@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6288705966759@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6281526009857@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6281527011724@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6285283725890@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6282235509121@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "62895386763040@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0,
+      "daftar": true,
+      "nama": "daftar"
+    },
+    "120363393552791797@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6285225162203@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6281977885090@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6281341912170@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6282231818536@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "62895335449079@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6285955111386@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6287752462343@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6282194214866@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6285394259812@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363394968937558@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363369674093146@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    }
+  },
+  "database": {},
+  "settings": {
+    "anticall": false,
+    "autobio": false,
+    "autoread": false,
+    "autopromosi": false,
+    "autotyping": false,
+    "readsw": false,
+    "owneroffmode": false
+  },
+  "rental_ps": {
+    "ps_units": [
+      {
+        "id": "PS4-1738424942810",
+        "type": "PS4",
+        "status": "available",
+        "harga_per_jam": 10000,
+        "games": [
+          "FIFA",
+          "GTA V",
+          "GOD",
+          "KETTEN"
+        ]
+      }
+    ],
+    "active_rentals": []
+  },
+  "groups": {
+    "120363375879155606@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "welcome": false,
+      "mute": false,
+      "simi": false,
+      "blacklistjpm": false
+    },
+    "120363147634867298@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "welcome": false,
+      "mute": false,
+      "simi": false,
+      "blacklistjpm": false
+    },
+    "120363144561683005@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "welcome": false,
+      "mute": false,
+      "simi": false,
+      "blacklistjpm": false
+    },
+    "120363180742380806@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "welcome": false,
+      "mute": false,
+      "simi": false,
+      "blacklistjpm": false
+    },
+    "6283185312418-1547382400@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "welcome": false,
+      "mute": false,
+      "simi": false,
+      "blacklistjpm": false
+    }
+  }
+}
